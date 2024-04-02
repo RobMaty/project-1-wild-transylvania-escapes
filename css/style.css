@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: "Roboto" , sans-serif;
+    color: #646363;
+}
+
+/*----------------------------------------Header*/
+
+
+h2 {
+    font-family: "Amatic SC" , sans-serif;
+    letter-spacing: 2px;
+    color: #034c30;
+    font-weight: 900;
+    padding-left: 10px;
+    
+}
+
+nav ul {
+    display: flex;
+    float: right
+}
+
+#logo {
+    float: left;
+    font-size: 230%;
+}
+
+#logo, #menu {
+    line-height: 75px;
+}
+
+#menu {
+    font-family: "Amatic SC" , sans-serif;
+    font-size: 150%;
+    font-weight: 900;
+    list-style-type: none;
+    letter-spacing: 2px;
+}
+
+#menu li {
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #034c30;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #61c39d;
+    color: #61c39d;
+}
+
+.active {
+    border-bottom: 1px solid #034c30;
+}
+
+/*----------------------------------------Hero Image*/
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hiking.jpg") no-repeat center center;
+    animation-name: hero-zooming;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    padding-top: 70px;
+}
