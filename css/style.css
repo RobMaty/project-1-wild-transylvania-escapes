@@ -13,7 +13,11 @@ body {
 }
 
 /*----------------------------------------Header*/
-
+header {
+    background-color: hsl(145, 45%, 74%);
+    width: 100%;
+    position: fixed;
+}
 
 #logo {
     font-family: "Amatic SC" , sans-serif;
@@ -68,6 +72,7 @@ nav ul {
 #hero-image {
     background-color: hsla(145, 45%, 74%, 0.611);
     margin-bottom: -4px;
+    padding-top: 75px;
 }
 #hero-image img {
     width: 100%;
@@ -184,4 +189,40 @@ footer {
 
 .youtube {
     color: hsl(0, 100%, 41%);
+}
+
+/*----------------------------------------Gallery page*/
+
+#gallery-header{
+    padding: 120px 0 30px 0;
+    text-align: center;
+    font-family: "Amatic SC" , sans-serif;
+    font-size: 25px;
+}
+
+@media screen and (max-width: 687px) {
+    #gallery-header{padding: 200px 0 30px 0;}
+}
+
+#photos-gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+}
+
+#photos-gallery img {
+    width: 100%;
+}
+
+@media screen and (max-width: 800px){
+    #photos-gallery{
+        column-count: 2;
+    }
+}
+
+@media screen and (max-width: 600px){
+    #photos-gallery{
+        column-count: 1;
+    }
 }
