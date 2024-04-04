@@ -97,7 +97,7 @@ nav ul {
     font-size: 35px;
 }
 
-/*----------------------------------------Hiking section images*/
+/*----------------------------------------Sports section images*/
 
 .header-sport {
     text-align: center;
@@ -128,18 +128,60 @@ nav ul {
 }
 
 
- @media screen and (max-width: 500px) {
+
+@media screen and (max-width: 1300px) {
+    .sport-image-1 img {width: 100%;}
+    .sport-image-1 {padding:10px;}
+    .sport-image-2 img {width: 50%;}
+    .sport-image-2 {padding: 0 0 20px 0;}
+}
+
+@media screen and (max-width: 500px) {
     .sport-image-1 img {width: 100%;}
     .sport-image-1 {padding:0;}
     .sport-image-2 img {width: 100%;}
     .sport-image-2 {padding: 0 0 20px 0;}
 }
 
-/*----------------------------------------Hiking section text*/
+/*----------------------------------------Sports section text*/
 
 .sports-msg {
     font-weight: 400;
     text-align: center;
     padding: 50px;
     background-color: hsla(145, 45%, 74%, 0.611);
+}
+
+/*----------------------------------------Footer*/
+
+footer {
+    height: 5px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 20px;
+}
+.facebook {
+    color: hsl(220, 74%, 35%);
+}
+
+.twitter {
+    color: rgb(94, 208, 208);
+}
+.instagram {
+    color: hsl(337, 35%, 49%);
+}
+
+.youtube {
+    color: hsl(0, 100%, 41%);
 }
