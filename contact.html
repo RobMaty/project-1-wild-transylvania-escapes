@@ -38,8 +38,21 @@
     </header>
     </div>
     <!-- Form section -->
-    <form>
-        
+    <form method="POST" action="https://formdump.codeinstitute.net/"" class="signup-form">
+        <h2>Adventure awaits! Sign up now!</h2>
+        <label for="fname">First Name</label>
+        <input class="text-input" id="fname" type="text" name="first_name" required>
+        <label for="lname">Last Name</label>
+        <input class="text-input" id="lname" type="text" name="last_name" required>
+        <label for="email">Email Address</label>
+        <input class="text-input" id="email" type="email" name="email_address" required>
+        <label for="road">Hiking</label>
+        <input id="road" type="radio" name="sport_preference" value="hiking" required>
+        <label for="trail">Rock Climbing</label>
+        <input id="trail" type="radio" name="sport_preference" value="rockclimbing">
+        <label for="both">Kayaking</label>
+        <input id="both" type="radio" name="sport_preference" value="kayaking">
+        <input class="join-button" type="submit" value="Let's exploring">
     </form>
     <!-- Footer section-->
     <footer>
