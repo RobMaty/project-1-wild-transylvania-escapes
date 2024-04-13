@@ -226,3 +226,9 @@ footer {
         column-count: 1;
     }
 }
+
+/*----------------------------------------About Us page*/
+
+.about-heading {
+    padding-top: 150px;
+}
