@@ -262,3 +262,23 @@ footer {
     }
 }
 
+.about-content h2 {
+    color: #034c30;
+    margin-bottom: 20px;
+}
+
+.about-content p{
+    font-style: normal;
+    padding: 40px;
+}
+
+.about-content em {
+    font-weight: bold;
+    color: #034c30;
+}
+
+.about-content a {
+    text-decoration: none;
+    color:#034c30;
+    font-weight: bold;
+}
