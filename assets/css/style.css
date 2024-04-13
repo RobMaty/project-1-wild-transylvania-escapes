@@ -245,3 +245,20 @@ footer {
         padding-top: 200px;
     }
 }
+
+.about-heading p {
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.about-image {
+  margin-bottom: 30px;  
+}
+
+@media screen and (max-width: 704px){
+    .about-image img {
+        width: 100%;
+    }
+}
+
