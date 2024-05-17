@@ -43,3 +43,28 @@ Users will be able to find relevant information in the website related to specif
 ## Design
 
 The website is designed to invite visitors to explore and participate in our adventures. It features a clean, easy-to-navigate layout with inspiring images showcasing the beauty of Transylvania and the excitement of our activities.
+
+### Design Brief:
+
++ Color:
+
+The colors were selected to give the nature a vibrant vibe, and the main colors used are:
+
+- Green: Symbolizes nature, growth, and adventure, reflecting the essence of outdoor activities.
+
+- Brown: Represents stability and reliability, emphasizing our commitment to safety and professionalism. 
+
+- White: Suggests purity and somplicity, creating a clean and inviting design.
+
++ Typography:
+
+- Roboto = Simple style for clean and readable information
+
+- Amatic SC = For Headings. Gives a fun and wild impresion, and changes the perspective to one related to nature.
+
++ Images: 
+
+- Hero Image: Showcases a stunning Transylvanian landscape to captivate and invite visitors.
+
+- Activity Images: Display participants engages in hiking, rock climbing, and kayaking to inspire and motivate potential adventurers.
+
