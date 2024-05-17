@@ -122,5 +122,17 @@ Here some images of the proccess
 
  - [Pixabay](https://pixabay.com/)
 
+## Testing: 
+
+### Testing results:
+
+- [W3C Markup Validation Service](https://validator.w3.org/)
+
+ + To validate HTML and CSS code.
+
+ Index.html :
+
+
+-  Errors: ![Errors](assets/images/readme.img/indexerrors.png "Index-errors")
 
 
