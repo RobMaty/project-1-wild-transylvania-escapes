@@ -110,4 +110,17 @@ Here some images of the proccess
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
+### I Also used:
+
+ - [Google Fonts](https://fonts.google.com/)
+
+ - [Balsamiq](https://balsamiq.com/)
+
+ - [Font awesome](https://fontawesome.com/)
+
+ - [Pexels](https://www.pexels.com/)
+
+ - [Pixabay](https://pixabay.com/)
+
+
 
