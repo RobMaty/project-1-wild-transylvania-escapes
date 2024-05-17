@@ -68,3 +68,46 @@ The colors were selected to give the nature a vibrant vibe, and the main colors 
 
 - Activity Images: Display participants engages in hiking, rock climbing, and kayaking to inspire and motivate potential adventurers.
 
+## Wireframes:
+
+The Basic structure of Rock Bristol Yoga School was skectched using [balsamiq](https://balsamiq.com/).
+
+Here some images of the proccess
+
+- Main Page :    
+![wireframe](assets/images/readme.img/mainpage.png "wireframe")
+
+- Gallery Page :   
+ ![wireframe](assets/images/readme.img/gallerypage.png "wireframe")
+
+- AboutUs Page :    
+![wireframe](assets/images/readme.img/aboutpage.png "wireframe")
+
+- Contact Page :   
+![wireframe](assets/images/readme.img/contactpage.png "wireframe")
+
+## Features
+
+- #### Existing Features:
+
+ + Navigation Bar: Links to "Home", "Gallery", "About Us", and "Contact" pages for easy navigation.
+
+ + Activity Details: Comprehensive information about hiking, rock climbing, and kayaking experiences.
+
+ + Gallery: Visual highlights of past adventures to inspire and motivate visitors.
+
+ + Contact Form: Included in the "Contact" page, allowing users to easily register their interest or enquiries.
+ 
+ + Google Maps Integration: An iframe showing the location of our starting points and meeting spots for activities.
+
+ #### Future Features:
+
+ + Online Banking and Payment : The posibility to pay for future trips in advance and allocate your spot.
+
+### Languages used: 
+
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
+
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+
