@@ -135,4 +135,71 @@ Here some images of the proccess
 
 -  Errors: ![Errors](assets/images/readme.img/indexerrors.png "Index-errors")
 
+Gallery.html :
+
+-  Errors: ![Errors](assets/images/readme.img/galleryerrors.png "Gallery-errors")
+
+
+Validator results :
+
+style.css 
+
+![Validator](assets/images/readme.img/cssvalidator.png "CSS")
+
+### Lighthouse results :
+
+![lighthouse results](assets/images/readme.img/indexlighthouse.png "indes")
+
+![lighthouse results](assets/images/readme.img/aboutlighthouse.png "About us")
+
+![lighthouse results](assets/images/readme.img/contactlighthouse.png "Contact")
+
+## Deployment
+
+### Inception
+
+This project was created using a GitHub template. After the creation of the project, it was renamed to "Wild-Transylvania-Escapes".
+
+To push this project from GitPod to GitHub, the following git commands were used:
+
+- `git status` - Check the status of the repository and see if there were any changes in files.
+- `git add .` - Add the files that were modified/created, so we can commit them.
+- `git commit -m "message for commit"` - Commits all the changes.
+- `git push` - Pushes all committed versions to GitHub.
+
+### Deployment to GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps:
+
+1. Log in to GitHub and locate the repository.
+2. At the top of the repository, click on "Settings".
+3. Scroll down to "GitHub Pages".
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. After the page refreshes automatically, scroll down again to "GitHub Pages" to see the live link to the published site.
+
+### Cloning the Repository
+
+To create a local clone:
+
+1. Log in to GitHub and locate the repository.
+2. At the top of the repository, click on "Code".
+3. From the dropdown menu under HTTPS, copy the link.
+4. On the IDE, create a directory where you want to clone the repository.
+5. Type `git clone` and paste the copied link.
+
+### Forking the Repository
+
+To fork the GitHub repository:
+
+1. Log in to GitHub and locate the repository.
+2. At the top of the repository, just above the "Settings" button on the menu, locate the "Fork" button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+## Credits
+
+### Acknowledgements
+
+A huge thank you to my mentor for their incredible help and approachability throughout this project. Thanks also to the tutors for their assistance and and my colleagues that helped me throughout my project work.
+
+Aslo a huge thank you for the team on the Slack, the Slack community were amazing.
 
